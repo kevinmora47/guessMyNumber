@@ -13,4 +13,5 @@ console.log(document.querySelector(".guess").value);
 
 document.querySelector(".message").textContent = "Correct Number! 🎉";
 
+// Apllying content to a element manipulating the dom.
 document.querySelector(".number").textContent = 13;
